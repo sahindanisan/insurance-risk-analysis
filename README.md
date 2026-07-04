@@ -1,4 +1,5 @@
 Sigorta Masrafı Tahminleme ve Risk Analizi 
+
 ● Proje Hakkında
 Bu proje, istatistiksel modelleme ve makine öğrenmesi teknikleri kullanılarak bir sağlık sigortası şirketinin müşterilerine ait yıllık sağlık masraflarının tahmin edilmesini amaçlamaktadır. Projede, bireylerin demografik ve fiziksel özellikleri kullanılarak aktüeryal bir fiyatlandırma modeli (risk denklemi) oluşturulmuştur.
 
