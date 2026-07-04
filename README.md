@@ -31,4 +31,5 @@ Sonuçlar
 
 ● Fiyatlandırma Denklemi:
 Yeni bir müşterinin sağlık masrafını hesaplamak için modelin çıkardığı katsayılar (coef) şu şekildedir: Tahmini Masraf = -12100 + (257.85 * Yaş) + (321.85 * BMI) + (473.50 * Çocuk) + (23810 * Sigara İçiyorsa)
+
 ✦ (Not: Sigara içen bir müşterinin diğer şartlar sabitken şirkete çıkardığı ek masraf yaklaşık 23.810 Dolar olarak tespit edilmiştir. Bu durum, fiyatlandırma politikasındaki en büyük kaldıraç noktasıdır.)
