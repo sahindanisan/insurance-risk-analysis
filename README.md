@@ -7,12 +7,19 @@ Bu proje, istatistiksel modelleme ve makine öğrenmesi teknikleri kullanılarak
 ● Veri Seti
 
 Kaggle'dan alınan insurance.csv veri seti kullanılmıştır. Veri seti 1338 müşteri kaydı ve 7 değişkenden oluşmaktadır:
+
 •	age: Yaş
+
 •	sex: Cinsiyet
+
 •	bmi: Vücut Kitle İndeksi (Boy/Kilo oranı)
+
 •	children: Sahip olunan çocuk/bakmakla yükümlü olunan kişi sayısı
+
 •	smoker: Sigara kullanımı
+
 •	region: ABD içinde yaşanılan coğrafi bölge
+
 •	charges: Sigorta şirketine fatura edilen yıllık sağlık masrafı (Hedef Değişken)
 
 ● Kullanılan Teknolojiler ve Kütüphaneler
